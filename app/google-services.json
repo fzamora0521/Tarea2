@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "580860098557",
+    "project_id": "carros-e8ac1",
+    "storage_bucket": "carros-e8ac1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580860098557:android:be9c28c0b1a2a600ffcb94",
+        "android_client_info": {
+          "package_name": "com.tarea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580860098557-lv5udq17g9kipa9mcj7uk4cv4orfa3vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClpt8_of-T56ws0LosDMIJ3rapwxHaSWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580860098557-lv5udq17g9kipa9mcj7uk4cv4orfa3vv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
